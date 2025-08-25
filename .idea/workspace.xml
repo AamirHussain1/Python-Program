@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40f60a6c-71ba-47b9-8c9e-f3022b51bad4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_List Rotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Remove Duplicates from Sorted List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Merge Two Lists Alternatingly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Longest Word Finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Common Elements from Multiple Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Group Adjacent Duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Count Frequencies of Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Find Numbers with Odd Frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_First Non-Repeating Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_Dictionaries/.idea/04_Dictionaries.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/.idea/Questions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Strings/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Strings/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Strings/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Strings/Length of string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Strings/Palindrome string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Strings/Reverse of string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Strings/string validation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Strings/sub_strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/List examples/Remove Duplicates and Sort by Frequency.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list comprehension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zdheRtKdJnI96SMXaPzaxU0cyW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01_List Rotation.executor": "Run",
+    "Python.02_Remove Duplicates from Sorted List.executor": "Run",
+    "Python.03_Merge Two Lists Alternatingly.executor": "Run",
+    "Python.04_Longest Word Finder.executor": "Run",
+    "Python.05_Common Elements from Multiple Lists.executor": "Run",
+    "Python.06_Group Adjacent Duplicates.executor": "Run",
+    "Python.07_Count Frequencies of Elements.executor": "Run",
+    "Python.08_Find Numbers with Odd Frequency.executor": "Run",
+    "Python.09_First Non-Repeating Element.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40f60a6c-71ba-47b9-8c9e-f3022b51bad4" name="Changes" comment="" />
+      <created>1752066956563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752066956563</updated>
+    </task>
+    <servers />
+  </component>
+</project>
