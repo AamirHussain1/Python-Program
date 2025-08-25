@@ -2,7 +2,7 @@ list1 = [10, 20, 30]
 list2 = ['a', 'b', 'c', 'd', 'e']
 
 appended_list = []
-for items in zip(list1, list2):
+for items in zip(list11, list2):
     for pairs in items:
         appended_list.append(pairs)
 
